@@ -50,7 +50,8 @@ function changeText(num) {
 const links = [
   { text: "Hershel's github", href: "https://github.com/HershelT", target: "_blank", marginTop: "20px" },
   { text: "Hershel's Docker", href: "https://hub.docker.com/u/hershelt", target: "_self", marginTop: "20px" },
-  {text: "Hershel's Website", href: "https://hershelthomas.com", target: "_self", marginTop: "20px" },
+  { text: "Hershel's Website", href: "https://hershelthomas.com", target: "_self", marginTop: "20px" },
+  { text: "Hershel's Python Terminal Game", href: "https://github.com/HershelT/FortniteGXMen-TerminalDungeon", target: "_blank", marginTop: "20px" }
   // { text: "Link 3", href: "#", target: "_self", marginTop: "30px" }
 ];
 function addLink(){
