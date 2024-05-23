@@ -39,6 +39,7 @@ document.body.scrollTop=0;document.documentElement.scrollTop=0;event.preventDefa
 document.getElementById("myText").innerHTML = text[num];
 }
 const links = [
+{ text: "Joke Pixel Art Site", href: "https://sites.google.com/view/hershelisartistic/home", target: "_blank", marginTop: "20px" },
 { text: "Hershel's github", href: "https://github.com/HershelT", target: "_blank", marginTop: "20px" },
 { text: "Hershel's Docker", href: "https://hub.docker.com/u/hershelt", target: "_blank", marginTop: "20px" },
 { text: "Hershel's Website", href: "https://hershelthomas.com", target: "_blank", marginTop: "20px" },
